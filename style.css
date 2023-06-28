@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    margin: 20px;
+}
+a{
+    margin: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+.botao{
+    width: 124px;
+    height: 51px;
+    border-radius: 10px;
+    background: #4CB538;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    border: none;
+}
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161a49;
+}
+h2{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161a49;
+}
+section{
+    margin: 35px,0,0,135px;
+    display: inline-block;
+    border: 1px solid red;
+}
+
+img{
+    width: 595px;
+    float: left;
+    border: 1px solid red;
+}
